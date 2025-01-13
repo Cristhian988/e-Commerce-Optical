@@ -2,6 +2,7 @@ import { useContext } from "react";
 import { ShopContext } from "../context/ShopContext";
 import Item from "../components/Item";
 
+// eslint-disable-next-line react/prop-types
 export default function ShopCategory({ category }) {
   const { all_products } = useContext(ShopContext);
 

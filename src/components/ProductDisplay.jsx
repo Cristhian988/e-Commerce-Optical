@@ -3,7 +3,6 @@ import { useContext } from "react";
 import { ShopContext } from "../context/ShopContext";
 
 export default function ProductDisplay({ product }) {
-  // eslint-disable-next-line react/prop-types
   const { id, name, price, description, image } = product;
   const { addToCart } = useContext(ShopContext);
 
