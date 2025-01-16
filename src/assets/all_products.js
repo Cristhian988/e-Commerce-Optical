@@ -3,7 +3,7 @@ import banner2 from "./banner2.jpg";
 import banner3 from "./banner3.jpg";
 import SunGlasses1 from "./SunGlasses1.jpg";
 import SunGlasses2 from "./SunGlasses2.jpg";
-import SunGlasses3 from "./sunglasses3.jpg";
+import SunGlasses3 from "./SunGlasses3.jpg";
 import SunGlasses4 from "./SunGlasses4.jpg";
 import SunGlasses5 from "./SunGlasses5.jpg";
 import SunGlasses6 from "./SunGlasses6.jpg";
